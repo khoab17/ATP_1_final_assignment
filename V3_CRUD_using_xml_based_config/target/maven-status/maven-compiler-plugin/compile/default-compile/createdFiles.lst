@@ -1,0 +1,5 @@
+org\model\User.class
+org\controller\UserController.class
+WebAppInitializer.class
+org\dao\UserDao.class
+org\config\WebAppConfig.class
